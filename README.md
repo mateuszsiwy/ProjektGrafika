@@ -47,6 +47,4 @@ python main_cube.py
 ## Filmik
 
 https://drive.google.com/file/d/1AuwaSxJqS-aSguFXmA64qk9rqVK8oa0E/view?usp=sharing
----
 
-Projekt edukacyjny | Listopad 2025
