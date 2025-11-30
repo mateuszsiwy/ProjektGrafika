@@ -44,10 +44,9 @@ python main_cube.py
 - `shaders/` - shadery GLSL (vertex + fragment)
 - `textures/` - 7 tekstur proceduralnych PNG
 
-## Zrzuty ekranu
+## Filmik
 
-_[Tutaj dodaj swoje zrzuty ekranu]_
-
+https://drive.google.com/file/d/1AuwaSxJqS-aSguFXmA64qk9rqVK8oa0E/view?usp=sharing
 ---
 
 Projekt edukacyjny | Listopad 2025
